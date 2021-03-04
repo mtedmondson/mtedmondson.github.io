@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Introduction</title>
+    <link>https://shellsche.me/blog/</link>
+    <description>Recent content in Posts on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shellsche.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post! Hello World!</title>
+      <link>https://shellsche.me/blog/helloworld/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shellsche.me/blog/helloworld/</guid>
+      <description>This was a long time coming. I have always wanted a sleek styled personal webpage! Currently it is a pretty basic setup, hugo with Introduction template hosted on github pages. However! I plan on doing some more fancy backend things to support this, some of these plans include having a drone pipeline setup to push stuff from my personal gitea repos straight to production (scary) and maybe some more build like things that allow me to handle some of the mundane maintenance tasks.</description>
+    </item>
+    
+  </channel>
+</rss>
